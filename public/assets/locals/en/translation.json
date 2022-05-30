@@ -1,0 +1,10 @@
+{
+  "app_title": "Title",
+  "language": "Language",
+  "welcome_message": "Welcome",
+  "list1":"spotrex games",
+  "list2":"spotrex bags",
+  "list3":"spotrex shoe",
+  "random":"this is a ramdomeresdsds",
+  "days_since_release": "it's been {{number_of_days}} days since this video was released"
+}

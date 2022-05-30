@@ -1,0 +1,10 @@
+{
+  "app_title": "عنوان",
+  "language": "اللغة",
+  "welcome_message": "اهلا بكم",
+  "list1": "اهلا بكم",
+  "list2": "اهلا بكم",
+  "list3": "اهلا بكم",
+  "random": "اهلا بكم",
+  "days_since_release": "لقد مرت {{number_of_days}} أيام على إصدار هذا الفيديو"
+}

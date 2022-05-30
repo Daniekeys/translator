@@ -1,0 +1,10 @@
+{
+  "app_title": "Titre",
+  "language": "Langue",
+  "welcome_message": "Bienvenue",
+  "list1": "Bienvenue",
+  "list2": "Bienvenue vuer",
+  "list3": "Bienvenue popere",
+  "random": "Bienvenue popere randommmer",
+  "days_since_release": "ça fait {{number_of_days}} jours depuis la sortie de cette vidéo"
+}
